@@ -29,6 +29,9 @@ This repository showcases my data analyst certifications, including virtual inte
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
 
+![TaTa](https://github.com/user-attachments/assets/4ccbc7ce-8505-4c17-9355-aafae85205cd)
+
+
 # Accenture North America Data Analytics and Visualization Completion Certificate
 
 Skills I learned in this Internship
@@ -38,6 +41,9 @@ Skills I learned in this Internship
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+![Accenture](https://github.com/user-attachments/assets/16528e9a-3f4c-44d4-9c13-c253905e6f9b)
+
 
 # HP Life : Data Science and Analytics Certificate
 
@@ -57,6 +63,9 @@ Tasks Completed:
 - Exploring different business applications of data science.
 - Participating in assessments and quizzes to demonstrate understanding.
 
+![HP Cetificate](https://github.com/user-attachments/assets/b1617dc1-d19e-41c7-883d-39f8065de3bf)
+
+
 # Google Data Analytics Foundations: Data, Data, Everywhere Certificate
 
 Skiils learned:
@@ -67,4 +76,7 @@ Spreadsheet, Data Analysis, SQL, Data Visualization, Data Cleansing
 - Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
 - Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
 - Describe the role of a data analyst with specific reference to jobs.
+
+![Google](https://github.com/user-attachments/assets/2a851943-5ac6-4469-a09d-15b615f890e7)
+
 
