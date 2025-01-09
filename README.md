@@ -1,7 +1,7 @@
 # Data-Analytics-Certificate
 This repository showcases my data analyst certifications, including virtual internships, online courses, and professional development programs. It serves as a centralized space to track my progress and demonstrate my skills. Feel free to explore and verify my achievements in data analysis.
 
-## PwC Switzerland Power BI Completion Certificate
+# PwC Switzerland Power BI Completion Certificate
 
 **Skills I learned in this Internship**
 
@@ -14,7 +14,10 @@ This repository showcases my data analyst certifications, including virtual inte
 - Strong communication skills reflected in the concise and informative email communication with engagement partners, delivering valuable insights and actionable suggestions based on data analysis.
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
-## Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate
+![PWC Certificate](https://github.com/user-attachments/assets/aeab4c9f-7e5f-4844-a3e9-4f5e05acde31)
+
+
+# Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate
 
  **Skills Learned in this InternshipL :**
 
@@ -26,7 +29,7 @@ This repository showcases my data analyst certifications, including virtual inte
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision making
 
-## Accenture North America Data Analytics and Visualization Completion Certificate
+# Accenture North America Data Analytics and Visualization Completion Certificate
 
 Skills I learned in this Internship
 
@@ -36,7 +39,7 @@ Skills I learned in this Internship
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
-## HP Life : Data Science and Analytics Certificate
+# HP Life : Data Science and Analytics Certificate
 
 Skills Learned:
 
@@ -54,7 +57,7 @@ Tasks Completed:
 - Exploring different business applications of data science.
 - Participating in assessments and quizzes to demonstrate understanding.
 
-## Google Data Analytics Foundations: Data, Data, Everywhere Certificate
+# Google Data Analytics Foundations: Data, Data, Everywhere Certificate
 
 Skiils learned:
 
