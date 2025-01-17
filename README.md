@@ -83,7 +83,7 @@ Spreadsheet, Data Analysis, SQL, Data Visualization, Data Cleansing
 
 ---
 
-## **Red Bull Off-Premise Sales Job Simulation on Forage - January 2025**
+#**Red Bull Off-Premise Sales Completiong Certificate - January 2025**
 
 - Completed a job simulation where I advised a Red Bull on how they could grow one of their key accounts
 - Analyzed a data set from one of Red Bull's key accounts and prepared a summary of my findings and recommendations to my manager, including how Red Bull could grow that account
@@ -92,3 +92,6 @@ Spreadsheet, Data Analysis, SQL, Data Visualization, Data Cleansing
 ### **Skills learned in this Job simulation**
 
  **Data Analysis, Organization, Presentation, Presentation Development, Written Communication**
+
+![image](https://github.com/user-attachments/assets/38591c04-c8f3-4d51-8bca-a517123b76c5)
+
