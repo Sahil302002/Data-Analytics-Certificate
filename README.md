@@ -16,6 +16,7 @@ This repository showcases my data analyst certifications, including virtual inte
 
 ![PWC Certificate](https://github.com/user-attachments/assets/aeab4c9f-7e5f-4844-a3e9-4f5e05acde31)
 
+---
 
 # Tata Group Data Visualisation: Empowering Business with Effective Insights Completion Certificate
 
@@ -31,10 +32,11 @@ This repository showcases my data analyst certifications, including virtual inte
 
 ![TaTa](https://github.com/user-attachments/assets/4ccbc7ce-8505-4c17-9355-aafae85205cd)
 
+---
 
 # Accenture North America Data Analytics and Visualization Completion Certificate
 
-Skills I learned in this Internship
+### Skills I learned in this Internship
 
 **Communication, Data Analysis, Data Modeling, Data Understanding, Data Visualization, Presentations, Project Planning, Public Speaking, Storytelling, Strategy, Teamwork**
 
@@ -79,4 +81,14 @@ Spreadsheet, Data Analysis, SQL, Data Visualization, Data Cleansing
 
 ![Google](https://github.com/user-attachments/assets/2a851943-5ac6-4469-a09d-15b615f890e7)
 
+---
 
+## **Red Bull Off-Premise Sales Job Simulation on Forage - January 2025**
+
+- Completed a job simulation where I advised a Red Bull on how they could grow one of their key accounts
+- Analyzed a data set from one of Red Bull's key accounts and prepared a summary of my findings and recommendations to my manager, including how Red Bull could grow that account
+- Created a presentation to the client based on the findings and recommendations I presented to my manager on the growth opportunities for that key account
+
+### **Skills learned in this Job simulation**
+
+ **Data Analysis, Organization, Presentation, Presentation Development, Written Communication**
