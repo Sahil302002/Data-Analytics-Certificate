@@ -46,6 +46,21 @@ This repository showcases my data analyst certifications, including virtual inte
 
 ![Accenture](https://github.com/user-attachments/assets/16528e9a-3f4c-44d4-9c13-c253905e6f9b)
 
+---
+
+#**Red Bull Off-Premise Sales Completiong Certificate - January 2025**
+
+- Completed a job simulation where I advised a Red Bull on how they could grow one of their key accounts
+- Analyzed a data set from one of Red Bull's key accounts and prepared a summary of my findings and recommendations to my manager, including how Red Bull could grow that account
+- Created a presentation to the client based on the findings and recommendations I presented to my manager on the growth opportunities for that key account
+
+### **Skills learned in this Job simulation**
+
+ **Data Analysis, Organization, Presentation, Presentation Development, Written Communication**
+
+![image](https://github.com/user-attachments/assets/38591c04-c8f3-4d51-8bca-a517123b76c5)
+
+---
 
 # HP Life : Data Science and Analytics Certificate
 
@@ -81,17 +96,4 @@ Spreadsheet, Data Analysis, SQL, Data Visualization, Data Cleansing
 
 ![Google](https://github.com/user-attachments/assets/2a851943-5ac6-4469-a09d-15b615f890e7)
 
----
-
-#**Red Bull Off-Premise Sales Completiong Certificate - January 2025**
-
-- Completed a job simulation where I advised a Red Bull on how they could grow one of their key accounts
-- Analyzed a data set from one of Red Bull's key accounts and prepared a summary of my findings and recommendations to my manager, including how Red Bull could grow that account
-- Created a presentation to the client based on the findings and recommendations I presented to my manager on the growth opportunities for that key account
-
-### **Skills learned in this Job simulation**
-
- **Data Analysis, Organization, Presentation, Presentation Development, Written Communication**
-
-![image](https://github.com/user-attachments/assets/38591c04-c8f3-4d51-8bca-a517123b76c5)
 
