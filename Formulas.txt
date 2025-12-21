@@ -1,0 +1,63 @@
+Formulas
+
+=IF(COUNTIF('[Part Details 30-06-2025 .2.xlsx]Sheet1'!$A$2:$A$437809, C2) > 0, "Duplicate", "New")
+
+
+=IF(ISNUMBER(MATCH(C2, 'Part Details 30-06-2025 .2.xlsx'!Part_Num_List, 0)), "Duplicate", "New")
+
+
+=Parts!A2 & ",'" & TEXTJOIN("','", TRUE, TRIM(Parts!C2), TRIM(Parts!D2), TRIM(Parts!E2), TRIM(Parts!F2), TRIM(Parts!G2), TRIM(Parts!H2)) & "')"
+
+
+[h]:mm:ss -- This is format I'll use in order to do summation of time in correct format
+
+
+This formula replaces all line breaks (Alt+Enter) inside a cell with a space, so that the text appears in a single line — and Excel doesn’t wrap the result in double quotes (") when you copy it.
+
+This is used to make sure, that 
+=SUBSTITUTE(A1, CHAR(10), " ")
+
+
+here : CHAR(10): Represents a line break character (also called LF = Line Feed). This is inserted in Excel when you press Alt+Enter
+
+SUBSTITUTE(text, old_text, new_text)
+
+
+
+=TEXTSPLIT(A1, , ",")
+This will spill the results into multiple rows instead of columns. If you're only seeing split data in columns, place the comma delimiter as the row 
+delimiter (the third argument), and leave the column delimiter blank
+
+
+Formula to find duplicates
+=IF(COUNTIF($A$2:A2, A2) > 1, "Duplicate", "")
+
+
+
+How to find Week of month in Power Query
+
+let
+    OrderDate = [OrderDate],
+    StartOfMonth = Date.StartOfMonth(OrderDate),
+    StartOfWeekNumber = Date.WeekOfYear(StartOfMonth, Day.Monday),
+    CurrentWeekNumber = Date.WeekOfYear(OrderDate, Day.Monday),
+    WeekOfMonth = CurrentWeekNumber - StartOfWeekNumber + 1
+in
+    WeekOfMonth
+
+
+
+-- Use this Particular formula 
+
+Formula for finding First duplicate in Excel Column
+=IF(COUNTIF($B$2:B2, B2) > 1, "Duplicate", "Unique")
+
+
+Use this formula to remove first zero from mobile Number 0123456789
+=IF(LEFT(A1,1)="0",RIGHT(A1,LEN(A1)-1),A1)
+
+=IF(COUNTIF($D$2:D2,D2)>1,"Duplicate","New")
+
+=TEXTJOIN(",",TRUE,IF(A1="-","",A1),IF(B1="-","",B1))
+
+=IF(ISNUMBER(MATCH(1, (Products[Seller]=[@Seller])*(Products[Brand]=[@Brand]),0)),"Has Product","No Product")
